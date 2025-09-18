@@ -37,3 +37,14 @@ Add to .vscode folder of the project, to settings.json file:
   "workspaceKeybindings.allowStylelintKeybinding.enabled": true
 }
 ```
+## Commands
+- dev  
+- build  
+- preview  
+- format  
+- format:fix  
+- lint  
+- lint:fix  
+- check (fix all except scss & css)  
+- stylelint
+- stylelint:fix
